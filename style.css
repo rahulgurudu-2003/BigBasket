@@ -1,0 +1,99 @@
+/*  
+ p
+  { 
+   
+    [ one way]
+     border-top-width: 8px; 
+     border-top-color: red;
+     border-top-style: dashed;
+     border-right-color: rgb(26, 76, 214);
+     border-right-width: 8px;
+     border-right-style: solid;
+     border-bottom-color: red;
+     border-bottom-width: 8px;
+     border-bottom-style: ridge;
+     border-left-color: green;
+     border-left-width: 8px;
+     border-left-style:solid;
+    
+    [Second Way]
+     border-color: red;
+     border-width: 8px;
+     border-style: solid;
+     
+    [Third way]
+    border: 8px solid blue; 
+
+    [ one way]
+    padding-top: 30px;
+    padding-right: 60px;
+    padding-bottom: 90px;
+    padding-left: 120px;
+
+    [Second Way]
+    padding: 85px 150px 65px;
+
+    [Third way]
+     padding: 65px 150px;
+   
+   [Fouthway] 
+      padding: 50px;
+
+    [ one way]
+    margin-top: 30px;
+    margin-right: 60px;
+    margin-bottom: 90px;
+    margin-left: 120px;
+
+    [Second Way]
+    margin: 85px 150px 65px;
+
+    [Third way]
+     margin: 65px 150px;
+   
+     [Fouthway] 
+      margin: 50px;
+
+   } 
+/*
+/*  */
+/* div
+{
+   border: 5px solid red; 
+   padding: 25px;
+   margin: 50px;
+} */
+
+/* h1{
+   text-align: center;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   height: 100vh;
+} */
+ /* input
+ {
+   border:1px solid rgb(102, 218, 102);
+   border-radius: 3px;
+ }
+  */
+
+ .rahul
+{
+   border:2px solid red;
+   width: 100%;
+   height: 220px;
+   padding: 8px;
+} 
+h1{
+   color:red; 
+}
+.robo
+{
+   background-color: rgb(245, 245, 83);
+   height: 60px;
+}
+ /* body{
+   background: url(background.jpeg);
+   background-size: cover;
+ } */
